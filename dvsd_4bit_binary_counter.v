@@ -1,4 +1,7 @@
-
+//************************************************************
+// E BALAKRISHNA 
+// Verilog file: dvsd_4bit_binary_counter.v
+//********************************************
 
 
 // Declare input port and 4-bit output port to get the counter values  
